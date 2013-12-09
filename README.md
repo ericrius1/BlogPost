@@ -20,7 +20,7 @@ What if we want to see how elements with the magical class behave when we hover 
 
 ![Hover](http://i.imgur.com/UZxJ2t7.png)
 
-The diversity of devices to develop for has proliferated profusely over the last decade. Thankfully, in the Canary build, Dev Tool's Screen Emulation feature provides an effective way to test your website on multiple screens wihout needing to continuously move from device to device. Even cooler, the emulator contains a number of common device presets, which will automatically enable the following settings:
+The diversity of devices to develop for has proliferated profusely in the past decade. Thankfully, A [brand new feature](https://plus.google.com/u/0/+FrancoisBeaufort/posts/MxybHsjLjU6?cfem=1), currently only available in Google's cuttng edge browser, Chrome Canary, provides an effective way to test your website on multiple screens wihout needing to continuously move from device to device. Even cooler, the emulator contains a number of common device presets, which will automatically enable the following settings:
    + **User agent**
    + **Screen Resolution**
    + **Device Pixel Ratio**
@@ -28,7 +28,7 @@ The diversity of devices to develop for has proliferated profusely over the last
    + **Text Autosizing**
    + **Touch Screen**
  
-A [brand new feature](https://plus.google.com/u/0/+FrancoisBeaufort/posts/MxybHsjLjU6?cfem=1), currently only available in Google's cuttng edge browser, Chrome Canary, can also emulate touch events, which is incredibly useful to avoid needing to push out code to a server and then load the new site on the device every time you make a change. To enable support for this feature:
+You can also emulate touch events, which is incredibly useful to avoid needing to push out code to a server and then load the new site on the device every time you make a change. To enable support for this feature:
   1. Open the emulation panel in the DevTools
   2. Enable "Emulate touch screen" in the Sensors pane.
 
