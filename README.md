@@ -28,7 +28,7 @@ The diversity of devices to develop for has proliferated profusely over the last
    + **Text Autosizing**
    + **Touch Screen**
  
-A [brand new feature](https://plus.google.com/u/0/+FrancoisBeaufort/posts/MxybHsjLjU6?cfem=1), currently only available in Google's cuttng edge browser, Chrome Canary, can also emulate touch events, which is incredibly useful to avoid needing to push out to a server and then loaded on the device every time you make a change. To enable support for this feature:
+A [brand new feature](https://plus.google.com/u/0/+FrancoisBeaufort/posts/MxybHsjLjU6?cfem=1), currently only available in Google's cuttng edge browser, Chrome Canary, can also emulate touch events, which is incredibly useful to avoid needing to push out code to a server and then load the new site on the device every time you make a change. To enable support for this feature:
   1. Open the emulation panel in the DevTools
   2. Enable "Emulate touch screen" in the Sensors pane.
 
