@@ -40,7 +40,7 @@ One of my favorite features, hands-down, is the FPS Counter/HUD Display tool, wh
 
 ![FPS](https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks/image_8.png)
 
-I hope you enjoyed the Chrome Dev Tool Tips we covered in this post. There are so many more amazing ones out there- Google itself has an extensive list  [here](https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks). Happy Hacking, and may the Chrome DevTools work forever in your favor!
+I hope you enjoyed the Chrome Dev Tool Tips we covered in this post. There are so many more amazing ones out there- Google itself has an [extensive list](https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks). Happy Hacking, and may the Chrome DevTools work forever in your favor!
 
 
 
